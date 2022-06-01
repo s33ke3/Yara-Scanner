@@ -1,4 +1,4 @@
-# Yara-Scanner MOD by Davide Bovio && Vincenzo Digilio :dagger: 
+# Yara-Scanner _MOD by Davide Bovio && Vincenzo Digilio :dagger: 
 
 :bow_and_arrow: https://thehackingquest.net/
 
