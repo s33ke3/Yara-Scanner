@@ -2,7 +2,7 @@
 
 Do you want more hacking? :bow_and_arrow: https://thehackingquest.net/
 
-NOTE: This Project is a mod of "yara-scanner" designed by iomoath. You can find the original project at the following link: https://github.com/iomoath/yara-scanner
+NOTE: This Project is a mod of "yara-scanner" designed by iomoath, that introduce different new features. You can find the original project at the following link: https://github.com/iomoath/yara-scanner
 
 :mag: You can find "Installing Instructions" | "Arguments" | "Usage Example" at --> https://github.com/iomoath/yara-scanner
 
