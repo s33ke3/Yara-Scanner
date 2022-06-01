@@ -6,7 +6,7 @@ NOTE: This Project is a mod of "yara-scanner" designed by iomoath. You can find 
 
 YaraScanner is a simple threat hunting & IOC scanner tool. Yara rules based.
 
-Yara-Scanner Features:
+:atom: Yara-Scanner Features:
 
 - Scan a single file. Attempt to find a pattern matching with given file.
 - Scan a directory. Scan for file(s) in given directory path and attempt to find a pattern matching with Yara rules.
