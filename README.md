@@ -1,6 +1,6 @@
 # Yara-Scanner _MOD by Davide Bovio && Vincenzo Digilio :dagger: 
 
-:bow_and_arrow: https://thehackingquest.net/
+Do you want more hacking? :bow_and_arrow: https://thehackingquest.net/
 
 NOTE: This Project is a mod of "yara-scanner" designed by iomoath. You can find the original project at the following link: https://github.com/iomoath/yara-scanner
 
