@@ -18,8 +18,8 @@ YaraScanner is a simple threat hunting & IOC scanner tool. Yara rules based.
 - Email alerts, when a pattern match is found
 - Logging
 
-	:electron: What this mod adds to the original features:
+:electron: What this mod adds to the original features?
 
-- Added a field in the report with HOSTNAME and USERNAME
+- Added a field in the report with HOSTNAME and USERNAME :computer:
 - 
 
