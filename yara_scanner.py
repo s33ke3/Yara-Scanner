@@ -1,4 +1,7 @@
-__author__ = "Moath Maharmeh | Modded By CyberDivision "
+# This Mod Version by Davide Bovio && Vincenzo Digilio
+# Original Project by Moath Maharmeh
+
+__author__ = "Moath Maharmeh | Modded By Davide Bovio && Vincenzo Digilio "
 __project_page__ = "https://github.com/iomoath/yara-scanner"
 
 import logger
