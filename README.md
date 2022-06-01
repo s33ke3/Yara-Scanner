@@ -1,4 +1,4 @@
-:dagger: # Yara-Scanner MOD by Davide Bovio && Vincenzo Digilio
+# Yara-Scanner MOD by Davide Bovio && Vincenzo Digilio :dagger: 
 NOTE: This Project is a mod of "yara-scanner" designed by iomoath. You can find the original project at the following link: https://github.com/iomoath/yara-scanner
 
 YaraScanner is a simple threat hunting & IOC scanner tool. Yara rules based.
