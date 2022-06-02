@@ -20,8 +20,24 @@ YaraScanner is a simple threat hunting & IOC scanner tool. Yara rules based.
 - Email alerts, when a pattern match is found
 - Logging
 
-:electron: What this mod adds to the original features?
+:electron: What does this mod add to the original features?
 
 - Added a field in the report with HOSTNAME and USERNAME :computer:
-- 
+- Implemented a multithread for speeding up the scan. Now the script engages until the 60% of CPU :zap:
+  - Added multithread in the "matchfile" routine
+  - Added multithread in the "match" routine
+  - NB: the max number of workers depends on the CPU core number engaged
+- Now during the scan is possible to see the total number of files to be scanned and the current scan file number :abacus:
+- Reworked the log, now it shows the complete file path :flashlight:
+- Reworked the log, now if the script crashes the current results will be saved in the log file :label: 
+
+Other changes :books: :
+
+- Created a new yara_match.py module
+- Routine "match" has been moved (from yara_scanner.py to yara_match.py)
+- yara_match.py module:
+  - "matchrule" has been splitted for rile analisys
+  - "matchfile" has been splitted for file analisys
+
+
 
